@@ -115,7 +115,7 @@ analytics:
 author:
   name             : #"Mateusz Dubiel"
   avatar           : "Profile.jpg"
-  bio              : "Research Associate \\ University of Luxembourg, Dept. Computer Science"
+  bio              : "Research Associate <br> University of Luxembourg, Dept. Computer Science"
   location         : #""
   email            :
   links:
