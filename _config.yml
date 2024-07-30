@@ -116,12 +116,15 @@ author:
   name             : #"Mateusz Dubiel"
   avatar           : "Profile.jpg"
   bio              : ""
-  location         : ""
+  location         : #""
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mateusz-dubiel/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
