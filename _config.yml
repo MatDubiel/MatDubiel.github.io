@@ -131,7 +131,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/MattyD_IR"
-     - label: "Google Scholar"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-chart-bar"
       url: "https://scholar.google.co.uk/citations?user=N5VfxGEAAAAJ&hl=en"
     - label: "GitHub"
