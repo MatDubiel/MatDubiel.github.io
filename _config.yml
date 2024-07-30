@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Mateusz Dubiel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "Profile.jpg"
   bio              : ""
   location         : ""
   email            :
