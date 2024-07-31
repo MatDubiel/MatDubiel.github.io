@@ -1,15 +1,16 @@
 ---
-layout: single
-permalink: /about/
-redirect_from:
-  - /
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am 
 
+## Main interests
 
-
-# News
-
- * (July 2024) ACM CUI'24 took place in Luxembourg
- * 
+  * Conversational Agents 
+  
