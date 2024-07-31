@@ -3,7 +3,7 @@ layout: single
 permalink: /publications/
 ---
 
-See all my publications on my [CV](/files/MateuszDubiel_CV.pdf)
+See all my publications on my [Google Scholar](https://scholar.google.co.uk/citations?user=N5VfxGEAAAAJ&hl=en)
 
 Publications
 ---------------------------------------------------------------------------
