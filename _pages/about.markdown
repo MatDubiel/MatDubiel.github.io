@@ -1,8 +1,7 @@
 ---
 layout: single
 permalink: /about.markdown/
-redirect_from:
-  - /
+redirect_from: /
 ---
 
 I am 
