@@ -1,7 +1,8 @@
 ---
 layout: single
 permalink: /about/
-redirect_from: /
+redirect_from:
+  - /
 ---
 
 I am 
