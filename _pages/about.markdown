@@ -5,8 +5,7 @@ redirect_from:
   - /
 ---
 
-I am a third year PhD student at the [National Centre for Text Mining](http://nactem.ac.uk/) (NaCTeM) at the
-University of Manchester advised by Prof Sophia Ananiadou. 
+I am 
 
 
 
