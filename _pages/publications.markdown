@@ -3,7 +3,7 @@ layout: single
 permalink: /publications/
 ---
 
-See all my publications on my [CV]()
+See all my publications on my [CV](/files/MateuszDubiel_CV.pdf)
 
 Publications
 ---------------------------------------------------------------------------
