@@ -314,16 +314,6 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      comments: true
-      share: true
-      permalink: /posts/
   # _pages
   - scope:
       path: "_pages"
@@ -331,3 +321,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+      permalink: /about/
+
+
+  # _posts
+ # - scope:
+ #     path: "_posts"
+ #     type: posts
+ #   values:
+ #     layout: single
+  #    author_profile: true
+   #   comments: true
+    #  share: true
+     # permalink: /posts/
