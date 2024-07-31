@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about.markdown/
+permalink: /about/
 redirect_from: /
 ---
 
