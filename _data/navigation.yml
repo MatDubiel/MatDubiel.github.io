@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: /_pages/about.markdown
   - title: "Publications"
     url: /publications/
   - title: "CV"
