@@ -5,7 +5,7 @@ permalink: /publications/
 
 See all my publications on my [Google Scholar](https://scholar.google.co.uk/citations?user=N5VfxGEAAAAJ&hl=en)
 
-Publications
+<h1>Publications</h1>
 ---------------------------------------------------------------------------
 <h3>Peer Reviewed Conferences</h3>
 
