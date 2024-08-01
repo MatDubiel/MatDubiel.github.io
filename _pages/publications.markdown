@@ -49,19 +49,19 @@ Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2021). [Inferring trust f
 <h3>Peer Reviewed Workshops</h3>
 ---------------------------------------------------------------------------
 
-Dubiel, M., & Leiva, L. A. (2023, May). Let’s Talk it through, anew: Promises and Pitfalls of Customisable Conversational Reflection Support. In CHI’23 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
+Dubiel, M., & Leiva, L. A. (2023, May). [Let’s Talk it through, anew: Promises and Pitfalls of Customisable Conversational Reflection Support.](https://orbilu.uni.lu/bitstream/10993/54893/1/Customisable_Reflection_Support.pdf) In CHI’23 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
 
-Dubiel, M., Yilma, B. A., Latifzadeh, K., & Leiva, L. A. (2022, May). A Contextual Framework for Adaptive User Interfaces: Modelling the Interaction Environment In CHI’22 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
+Dubiel, M., Yilma, B. A., Latifzadeh, K., & Leiva, L. A. (2022, May). [A Contextual Framework for Adaptive User Interfaces: Modelling the Interaction Environment.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N5VfxGEAAAAJ&sortby=pubdate&citation_for_view=N5VfxGEAAAAJ:_Ybze24A_UAC) In CHI’22 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
 
-Dubiel, M., Halvey, M., Azzopardi, L., Anderson, D., & Daronnat, S. (2020, March). Conversational strategies: impact on search performance in a goal-oriented task. In The Third International Workshop on Conversational Approaches to Information Retrieval.
+Dubiel, M., Halvey, M., Azzopardi, L., Anderson, D., & Daronnat, S. (2020, March). [Conversational strategies: impact on search performance in a goal-oriented task.](https://strathprints.strath.ac.uk/71809/1/Dubiel_etal_CAIR2020_Conversational_strategies_impact_on_search_performance.pdf) In The Third International Workshop on Conversational Approaches to Information Retrieval.
 
-Tortoreto, G., Stepanov, E., Cervone, A., Dubiel, M., & Riccardi, G. (2019, August). Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups More Therapeutic than Twitter?. In Proceedings of the Fourth Social Media Mining for Health Applications (# SMM4H) Workshop & Shared Task (pp. 79-88).
+Tortoreto, G., Stepanov, E., Cervone, A., Dubiel, M., & Riccardi, G. (2019, August). [Affective Behaviour Analysis of On-line User Interactions: Are On-line Support Groups More Therapeutic than Twitter?](https://arxiv.org/pdf/1911.01371) In Proceedings of the Fourth Social Media Mining for Health Applications (# SMM4H) Workshop & Shared Task (pp. 79-88).
 
-Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2019, May). Human-agent collaborations: trust in negotiating control. In CHI’19 Workshop: Everyday Automation Experience. 
+Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2019, May). [Human-agent collaborations: trust in negotiating control.](https://pure.strath.ac.uk/ws/portalfiles/portal/91823599/Daronnat_etal_CHI2019_Human_agent_collaborations_trust_in_negotiating_control.pdf) In CHI’19 Workshop: Everyday Automation Experience. 
 
-Azzopardi, L., Dubiel, M., Halvey, M., & Dalton, J. (2018, July). Conceptualizing agent-human interactions during the conversational search process. In The second international workshop on conversational approaches to information retrieval.
+Azzopardi, L., Dubiel, M., Halvey, M., & Dalton, J. (2018, July). [Conceptualizing agent-human interactions during the conversational search process.](https://pure.strath.ac.uk/ws/portalfiles/portal/81617009/Azzopardi_etal_2018_Conceptualizing_agent_human_interactions_during_the_conversational_search_process.pdf) In The second international workshop on conversational approaches to information retrieval.
 
-Dubiel, M., Halvey, M., Azzopardi, L., & Daronnat, S. (2018, July). Investigating how conversational search agents affect user's behaviour, performance and search experience. In The second international workshop on conversational approaches to information retrieval.
+Dubiel, M., Halvey, M., Azzopardi, L., & Daronnat, S. (2018, July). [Investigating how conversational search agents affect user's behaviour, performance and search experience.](https://pure.strath.ac.uk/ws/portalfiles/portal/81774688/Dubiel_etal_CAIR_2018_Investigating_how_conversational_search_agents_affect_users_behaviour.pdf) In The second international workshop on conversational approaches to information retrieval.
 
-Dubiel, M., Halvey, M., Azzopardi, L., Aylett, M., Wester, M., & Braude, D. A. (2018, April). Improving conversational dynamics with reactive speech synthesis. In Voice-based Conversational UX Studies and Design Workshop.
+Dubiel, M., Halvey, M., Azzopardi, L., Aylett, M., Wester, M., & Braude, D. A. (2018, April). [Improving conversational dynamics with reactive speech synthesis.](https://strathprints.strath.ac.uk/64167/2/Dubiel_etal_CHI_2018_Improving_conversational_dynamics_with_reactive_speech_synthesis.pdf) In Voice-based Conversational UX Studies and Design Workshop.
 
