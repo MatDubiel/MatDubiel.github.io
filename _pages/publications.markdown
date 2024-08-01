@@ -36,15 +36,15 @@ Dubiel, M. (2018, March). [Towards human-like conversational search systems.](ht
 <h3>Peer Reviewed Journals</h3>
 ---------------------------------------------------------------------------
 
-Dubiel, M., Sergeeva, A, Bongard-Blanchy, K., & Leiva, L. A. (Expected 2024). Hey Genie, You Got Me Thinking About My Menu Choices!”: Impact of Proactive Feedback on User Perception and Reflection in Decision-making Task. ACM Transactions on Human-Computer Interaction (TOCHI) (Under Review)
+Dubiel, M., Sergeeva, A, Bongard-Blanchy, K., & Leiva, L. A. (2024). Hey Genie, You Got Me Thinking About My Menu Choices!”: Impact of Proactive Feedback on User Perception and Reflection in Decision-making Task. ACM Transactions on Human-Computer Interaction (TOCHI) (Just Accepted)
 
-Dubiel, M., Barghouti, Y., & Leiva, L. A. (Expected 2024). On-device Query Intent Prediction with Lightweight LLMs to Support Ubiquitous Conversations. Nature Scientific Reports (Under Review) 
+Dubiel, M., Barghouti, Y., Kudryavtseva, K., & Leiva, L. A. (2024). [On-device query intent prediction with lightweight LLMs to support ubiquitous conversations.](https://www.nature.com/articles/s41598-024-63380-6.pdf) Nature Scientific Reports, 14(1), 12731.
 
 Ciarrone, A., Leiva, L. A., & Dubiel, M. (Expected 2024). Enricommender: Business Intelligence for User Interface Design. Interacting with Computers (Under Review) 
 
-Khan, A. M., Dunlop, M. D., Lennon, M., & Dubiel, M. (2021). Towards designing mobile apps for independent travel: exploring current barriers and opportunities for supporting young adults with Down's Syndrome. ACM Transactions on Accessible Computing (TACCESS), 14(3), 1-40.
+Khan, A. M., Dunlop, M. D., Lennon, M., & Dubiel, M. (2021). [Towards designing mobile apps for independent travel: exploring current barriers and opportunities for supporting young adults with Down's Syndrome.](https://pure.strath.ac.uk/ws/portalfiles/portal/122934826/Khan_etal_TAC_2021_Towards_designing_mobile_apps_for_independent_travel.pdf) ACM Transactions on Accessible Computing (TACCESS), 14(3), 1-40.
 
-Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2021). Inferring trust from users’ behaviours; agents’ predictability positively affects trust, task performance and cognitive load in human-agent real-time collaboration. Frontiers in Robotics and AI, 8, 642201.
+Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2021). [Inferring trust from users’ behaviours; agents’ predictability positively affects trust, task performance and cognitive load in human-agent real-time collaboration.](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.642201/full) Frontiers in Robotics and AI, 8, 642201.
 
 <h3>Peer Reviewed Workshops</h3>
 ---------------------------------------------------------------------------
