@@ -40,7 +40,7 @@ Dubiel, M., Sergeeva, A, Bongard-Blanchy, K., & Leiva, L. A. (2024). Hey Genie, 
 
 Dubiel, M., Barghouti, Y., Kudryavtseva, K., & Leiva, L. A. (2024). [On-device query intent prediction with lightweight LLMs to support ubiquitous conversations.](https://www.nature.com/articles/s41598-024-63380-6.pdf) Nature Scientific Reports, 14(1), 12731.
 
-Ciarrone, A., Leiva, L. A., & Dubiel, M. (Expected 2024). Enricommender: Business Intelligence for User Interface Design. Interacting with Computers (Under Review) 
+Ciarrone, A., Leiva, L. A., & Dubiel, M. (Expected 2024). Enricommender: Business Intelligence for User Interface Design. Interacting with Computers (In Press) 
 
 Khan, A. M., Dunlop, M. D., Lennon, M., & Dubiel, M. (2021). [Towards designing mobile apps for independent travel: exploring current barriers and opportunities for supporting young adults with Down's Syndrome.](https://pure.strath.ac.uk/ws/portalfiles/portal/122934826/Khan_etal_TAC_2021_Towards_designing_mobile_apps_for_independent_travel.pdf) ACM Transactions on Accessible Computing (TACCESS), 14(3), 1-40.
 
