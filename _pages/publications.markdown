@@ -8,7 +8,7 @@ See all my publications on my [Google Scholar](https://scholar.google.co.uk/cita
 Publications
 ---------------------------------------------------------------------------
 Peer Reviewed Conferences
-1.	Dubiel, M., Sergeeva, A. & Leiva, L. A.  (2024, March). Impact of Voice Fidelity on Decision Making: A Potential Dark Pattern? In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 1-10).
+1.	Dubiel, M., Sergeeva, A. & Leiva, L. A.  (2024, March). [Impact of Voice Fidelity on Decision Making: A Potential Dark Pattern?](https://dl.acm.org/doi/10.1145/3640543.3645202) In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 1-10).
 2.	Dubiel, M., Bongard-Blanchy, K., Leiva, L. A., & Sergeeva, A. (2023, July). Are you sure you want to order that? On Appropriateness of Voice-only Proactive Feedback Strategies. In Proceedings of the 5th International Conference on Conversational User Interfaces (pp. 1-6).
 3.	Dubiel, M., Nakayama, M., & Wang, X. (2023, May). Modelling Attention Levels with Ocular Responses in a Speech-in-Noise Recall Task. In Proceedings of the 2023 Symposium on Eye Tracking Research and Applications (pp. 1-7).	
 4.	Dubiel, M., Daronnat, S., & Leiva, L. A. (2022, July). Conversational Agents Trust Calibration: A User-Centred Perspective to Design. In Proceedings of the 4th Conference on Conversational User Interfaces (pp. 1-6).	
