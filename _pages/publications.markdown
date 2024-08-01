@@ -7,7 +7,7 @@ See all my publications on my [Google Scholar](https://scholar.google.co.uk/cita
 
 Publications
 ---------------------------------------------------------------------------
-<b>Peer Reviewed Conferences</b>
+<h3>Peer Reviewed Conferences</h3>
 
 Dubiel, M., Sergeeva, A. & Leiva, L. A.  (2024, March). [Impact of Voice Fidelity on Decision Making: A Potential Dark Pattern?](https://dl.acm.org/doi/10.1145/3640543.3645202) In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 1-10).
 
@@ -31,7 +31,7 @@ Dubiel, M., Cervone, A., & Riccardi, G. (2019, August). [Inquisitive mind: a con
 
 Dubiel, M. (2018, March). [Towards human-like conversational search systems.](https://pure.strath.ac.uk/ws/portalfiles/portal/81238181/Dubiel_CHIIR_2018_Towards_human_like_conversational_search_systems.pdf) In Proceedings of the 2018 Conference on Human Information Interaction & Retrieval (pp. 348-350).
 
-<b>Peer Reviewed Journals</b>
+<h3>Peer Reviewed Journals</h3>
 
 Dubiel, M., Sergeeva, A, Bongard-Blanchy, K., & Leiva, L. A. (Expected 2024). Hey Genie, You Got Me Thinking About My Menu Choices!”: Impact of Proactive Feedback on User Perception and Reflection in Decision-making Task. ACM Transactions on Human-Computer Interaction (TOCHI) (Under Review)
 
@@ -43,7 +43,7 @@ Khan, A. M., Dunlop, M. D., Lennon, M., & Dubiel, M. (2021). Towards designing m
 
 Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2021). Inferring trust from users’ behaviours; agents’ predictability positively affects trust, task performance and cognitive load in human-agent real-time collaboration. Frontiers in Robotics and AI, 8, 642201.
 
-<b>Peer Reviewed Workshops</b>
+<h3>Peer Reviewed Workshops</h3>
 
 Dubiel, M., & Leiva, L. A. (2023, May). Let’s Talk it through, anew: Promises and Pitfalls of Customisable Conversational Reflection Support. In CHI’23 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
 
