@@ -3,9 +3,9 @@ layout: single
 permalink: /publications/
 ---
 
-See all my publications on my [Google Scholar](https://scholar.google.co.uk/citations?user=N5VfxGEAAAAJ&hl=en)
-
 <h1>Publications</h1>
+
+See all my publications on my [Google Scholar](https://scholar.google.co.uk/citations?user=N5VfxGEAAAAJ&hl=en)
 ---------------------------------------------------------------------------
 <h3>Peer Reviewed Conferences</h3>
 ---------------------------------------------------------------------------
