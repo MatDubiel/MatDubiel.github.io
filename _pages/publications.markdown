@@ -51,7 +51,7 @@ Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2021). [Inferring trust f
 
 Dubiel, M., & Leiva, L. A. (2023, May). [Let’s Talk it through, anew: Promises and Pitfalls of Customisable Conversational Reflection Support.](https://orbilu.uni.lu/bitstream/10993/54893/1/Customisable_Reflection_Support.pdf) In CHI’23 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
 
-Dubiel, M., Yilma, B. A., Latifzadeh, K., & Leiva, L. A. (2022, May). [A Contextual Framework for Adaptive User Interfaces: Modelling the Interaction Environment.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=N5VfxGEAAAAJ&sortby=pubdate&citation_for_view=N5VfxGEAAAAJ:_Ybze24A_UAC](https://arxiv.org/pdf/2203.16882 )  In CHI’22 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
+Dubiel, M., Yilma, B. A., Latifzadeh, K., & Leiva, L. A. (2022, May). [A Contextual Framework for Adaptive User Interfaces: Modelling the Interaction Environment.](https://arxiv.org/pdf/2203.16882)  In CHI’22 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
 
 Dubiel, M., Halvey, M., Azzopardi, L., Anderson, D., & Daronnat, S. (2020, March). [Conversational strategies: impact on search performance in a goal-oriented task.](https://strathprints.strath.ac.uk/71809/1/Dubiel_etal_CAIR2020_Conversational_strategies_impact_on_search_performance.pdf) In The Third International Workshop on Conversational Approaches to Information Retrieval.
 
