@@ -8,6 +8,7 @@ See all my publications on my [Google Scholar](https://scholar.google.co.uk/cita
 Publications
 ---------------------------------------------------------------------------
 Peer Reviewed Conferences
+
 Dubiel, M., Sergeeva, A. & Leiva, L. A.  (2024, March). [Impact of Voice Fidelity on Decision Making: A Potential Dark Pattern?](https://dl.acm.org/doi/10.1145/3640543.3645202) In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 1-10).
 Dubiel, M., Bongard-Blanchy, K., Leiva, L. A., & Sergeeva, A. (2023, July). [Are you sure you want to order that? On Appropriateness of Voice-only Proactive Feedback Strategies.](https://web.archive.org/web/20230720201700id_/https://dl.acm.org/doi/pdf/10.1145/3571884.3604312) In Proceedings of the 5th International Conference on Conversational User Interfaces (pp. 1-6).
 Dubiel, M., Nakayama, M., & Wang, X. (2023, May). [Modelling Attention Levels with Ocular Responses in a Speech-in-Noise Recall Task.](https://dl.acm.org/doi/pdf/10.1145/3588015.3589665) In Proceedings of the 2023 Symposium on Eye Tracking Research and Applications (pp. 1-7).	
@@ -21,6 +22,7 @@ Dubiel, M., Cervone, A., & Riccardi, G. (2019, August). [Inquisitive mind: a con
 Dubiel, M. (2018, March). [Towards human-like conversational search systems.](https://pure.strath.ac.uk/ws/portalfiles/portal/81238181/Dubiel_CHIIR_2018_Towards_human_like_conversational_search_systems.pdf) In Proceedings of the 2018 Conference on Human Information Interaction & Retrieval (pp. 348-350).
 
 Peer Reviewed Journals
+
 Dubiel, M., Sergeeva, A, Bongard-Blanchy, K., & Leiva, L. A. (Expected 2024). Hey Genie, You Got Me Thinking About My Menu Choices!”: Impact of Proactive Feedback on User Perception and Reflection in Decision-making Task. ACM Transactions on Human-Computer Interaction (TOCHI) (Under Review) 
 Dubiel, M., Barghouti, Y., & Leiva, L. A. (Expected 2024). On-device Query Intent Prediction with Lightweight LLMs to Support Ubiquitous Conversations. Nature Scientific Reports (Under Review) 
 Ciarrone, A., Leiva, L. A., & Dubiel, M. (Expected 2024). Enricommender: Business Intelligence for User Interface Design. Interacting with Computers (Under Review) 
@@ -28,6 +30,7 @@ Khan, A. M., Dunlop, M. D., Lennon, M., & Dubiel, M. (2021). Towards designing m
 Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2021). Inferring trust from users’ behaviours; agents’ predictability positively affects trust, task performance and cognitive load in human-agent real-time collaboration. Frontiers in Robotics and AI, 8, 642201.
 
 Peer Reviewed Workshops
+
 Dubiel, M., & Leiva, L. A. (2023, May). Let’s Talk it through, anew: Promises and Pitfalls of Customisable Conversational Reflection Support. In CHI’23 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
 Dubiel, M., Yilma, B. A., Latifzadeh, K., & Leiva, L. A. (2022, May). A Contextual Framework for Adaptive User Interfaces: Modelling the Interaction Environment In CHI’22 Workshop: Integrating Individual and Social Contexts into Self-Reflection Technologies.
 Dubiel, M., Halvey, M., Azzopardi, L., Anderson, D., & Daronnat, S. (2020, March). Conversational strategies: impact on search performance in a goal-oriented task. In The Third International Workshop on Conversational Approaches to Information Retrieval.
