@@ -5,7 +5,7 @@ permalink: /teaching/
 
 <h1>Teaching Experience</h1>
 
-Designing Interactive Systems <br>
+<i>Designing Interactive Systems</i> <br>
 (Spring 2022, Spring 2023, Spring 2024) <br>
-Instructor, Department of Computer Science - University of Luxembourg <br>
+<b>Instructor</b>, Department of Computer Science - The University of Luxembourg <br>
 
