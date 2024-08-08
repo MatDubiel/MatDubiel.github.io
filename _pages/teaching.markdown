@@ -15,7 +15,7 @@ Department of Computer Science - The University of Luxembourg <br>
 (Winter 2024)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
-<b>Guest Lecturer</b> for <i>Inroduction to Deep Learning</i><br>
+<b>Guest Lecturer</b> for <i>Introduction to Deep Learning</i><br>
 (Spring 2023)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
