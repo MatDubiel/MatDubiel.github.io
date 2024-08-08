@@ -5,6 +5,8 @@ permalink: /teaching/
 
 <h1> Teaching Experience </h1>
 
+<br>
+
 <b>Instructor and Organiser</b> for <i>Designing Interactive Systems</i>  <br>
 (Winter 2022,  Winter 2023, Winter 2024) <br>
 Department of Computer Science - The University of Luxembourg <br>
