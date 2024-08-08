@@ -18,7 +18,7 @@ Department of Computer Science - The University of Luxembourg <br>
 Department of Computer Science - The University of Luxembourg <br>
 
 <b>Teaching Assistant</b> for <i>Web-Development 1</i><br>
-(Summer 2022)<br>
+(Summer 2021)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
 <b>Lab Demonstrator</b> for <i>Big Data Analytics</i><br>
