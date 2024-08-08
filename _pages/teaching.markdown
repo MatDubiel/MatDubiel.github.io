@@ -20,3 +20,11 @@ Department of Computer Science - The University of Luxembourg <br>
 <b>Teaching Assistant</b> for <i>Web-Development 1</i><br>
 (Summer 2024)<br>
 Department of Computer Science - The University of Luxembourg <br>
+
+<b>Lab Demonstrator</b> for <i>Big Data Analytics</i><br>
+(Winter 2018 and Winter 2019)<br>
+Department of Computer and Information Science - The University of Strathclyde <br>
+
+<b>Lab Demonstrator</b> for <i>Introduction to Infomration Retrieval</i><br>
+(Summer 2018)<br>
+Department of Computer and Information Science - The University of Strathcyde <br>
