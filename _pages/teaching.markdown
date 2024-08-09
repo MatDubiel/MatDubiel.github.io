@@ -7,23 +7,23 @@ permalink: /teaching/
 
 <br>
 
-<b>Instructor and Organiser</b> for <i>Designing Interactive Systems</i> course<br>
+<b>Instructor and Organiser</b> for <i>Designing Interactive Systems</i> <br>
 (Winter 2022,  Winter 2023, Winter 2024) <br>
 Department of Computer Science - The University of Luxembourg <br>
 
-<b>Instructor</b> for <i>User-Centred Design</i> course <br>
+<b>Instructor</b> for <i>User-Centred Design</i>  <br>
 (Winter 2024)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
-<b>Guest Lecturer</b> for <i>Introduction to Deep Learning</i> course<br>
+<b>Guest Lecturer</b> for <i>Introduction to Deep Learning</i> <br>
 (Spring 2023)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
-<b>Teaching Assistant</b> for <i>Web-Development 1</i> course <br>
+<b>Teaching Assistant</b> for <i>Web-Development 1</i>  <br>
 (Summer 2021)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
-<b>Lab Demonstrator</b> for <i>Big Data Analytics</i> course <br>
+<b>Lab Demonstrator</b> for <i>Big Data Analytics</i> <br>
 (Winter 2018 and Winter 2019)<br>
 Department of Computer and Information Sciences - The University of Strathclyde <br>
 
