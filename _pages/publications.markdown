@@ -11,7 +11,7 @@ See all my publications on my [Google Scholar](https://scholar.google.co.uk/cita
 <h3>Peer Reviewed Conferences</h3>
 ---------------------------------------------------------------------------
 
-Dubiel, M., Sergeeva, A. & Leiva, L. A.  (2024, March). [Impact of Voice Fidelity on Decision Making: A Potential Dark Pattern?](https://dl.acm.org/doi/10.1145/3640543.3645202) In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 1-10).
+<b>Dubiel, M.</b>, Sergeeva, A. & Leiva, L. A.  (2024, March). [Impact of Voice Fidelity on Decision Making: A Potential Dark Pattern?](https://dl.acm.org/doi/10.1145/3640543.3645202) In Proceedings of the 29th International Conference on Intelligent User Interfaces (pp. 1-10).
 
 Desai, S., Dubiel, M., & Leiva, L. A. (2024, July). [Examining Humanness as a Metaphor to Design Voice User Interfaces.](https://dl.acm.org/doi/pdf/10.1145/3640794.3665535) In Proceedings of the 6th ACM Conference on Conversational User Interfaces (pp. 1-15).
 
