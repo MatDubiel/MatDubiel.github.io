@@ -23,7 +23,7 @@ Department of Computer Science - The University of Luxembourg <br>
 (Summer 2021)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
-<b>Lab Demonstrator</b> for <i>Introduction to Infomration Retrieval</i><br>
+<b>Lab Demonstrator</b> for <i>Introduction to Information Retrieval</i><br>
 (Summer 2018)<br>
 Department of Computer and Information Sciences - The University of Strathcyde <br>
 
