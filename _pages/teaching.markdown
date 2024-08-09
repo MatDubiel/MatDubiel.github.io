@@ -23,10 +23,10 @@ Department of Computer Science - The University of Luxembourg <br>
 (Summer 2021)<br>
 Department of Computer Science - The University of Luxembourg <br>
 
-<b>Lab Demonstrator</b> for <i>Big Data Analytics</i> <br>
-(Winter 2018 and Winter 2019)<br>
-Department of Computer and Information Sciences - The University of Strathclyde <br>
-
 <b>Lab Demonstrator</b> for <i>Introduction to Infomration Retrieval</i><br>
 (Summer 2018)<br>
 Department of Computer and Information Sciences - The University of Strathcyde <br>
+
+<b>Lab Demonstrator</b> for <i>Big Data Analytics</i> <br>
+(Winter 2017 and Winter 2019)<br>
+Department of Computer and Information Sciences - The University of Strathclyde <br>
