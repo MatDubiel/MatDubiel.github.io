@@ -32,7 +32,7 @@ Daronnat, S., Azzopardi, L., Halvey, M., & Dubiel, M. (2020, November). [Impact 
 
 Dubiel, M., Halvey, M., Azzopardi, L., & Daronnat, S. (2020, September). [Interactive evaluation of conversational agents: reflections on the impact of search task design.](https://pure.strath.ac.uk/ws/portalfiles/portal/109825643/Dubiel_etal_SIGIR_2020_Interactive_evaluation_of_conversational_agents.pdf) In Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval (pp. 85-88).
 
-Dubiel, M., Halvey, M., Gallegos, P. O., & King, S. (2020, July). [Persuasive synthetic speech: Voice perception and user behaviour.](https://strathprints.strath.ac.uk/72547/1/Dubiel_etal_CUI2020_Persuasive_synthetic_speech.pdf) In Proceedings of the 2nd Conference on Conversational User Interfaces (pp. 1-9).
+Dubiel, M., Halvey, M., Gallegos, P. O., & King, S. (2020, July). [Persuasive synthetic speech: Voice perception and user behaviour.](https://strathprints.strath.ac.uk/72547/1/Dubiel_etal_CUI2020_Persuasive_synthetic_speech.pdf) In Proceedings of the 2nd Conference on Conversational User Interfaces (pp. 1-9). (Honourable Mention Award &#129352;)
 
 Dubiel, M., Cervone, A., & Riccardi, G. (2019, August). [Inquisitive mind: a conversational news companion.](https://strathprints.strath.ac.uk/68892/1/Dubiel_etal_CUI_2019_Inquisitive_mind_a_conversational_news_companion.pdf) In Proceedings of the 1st International Conference on Conversational User Interfaces (pp. 1-3).
 
