@@ -16,7 +16,6 @@ Dubiel, M., Sergeeva, A. & Leiva, L. A.  (2024, March). [Impact of Voice Fidelit
 Desai, S., Dubiel, M., & Leiva, L. A. (2024, July). [Examining Humanness as a Metaphor to Design Voice User Interfaces.](https://dl.acm.org/doi/pdf/10.1145/3640794.3665535) In Proceedings of the 6th ACM Conference on Conversational User Interfaces (pp. 1-15).
 
 Hillah, L., Dubiel, M., & Leiva, L. A. (2024, July). ["¿ Te vienes? Sure!" Joint Fine-tuning of Language Detection and Transcription Improves Automatic Recognition of Code-Switching Speech.](https://orbilu.uni.lu/bitstream/10993/61597/1/Joint_Fine_tuning_of_Language_Detection_and_ASR_for_Code_Switching_Speech.pdf) In Proceedings of the 6th ACM Conference on Conversational User Interfaces (pp. 1-7). (Best Short Paper Award &#127942;)
- </ul>)
 
 Dubiel, M., Bongard-Blanchy, K., Leiva, L. A., & Sergeeva, A. (2023, July). [Are you sure you want to order that? On Appropriateness of Voice-only Proactive Feedback Strategies.](https://web.archive.org/web/20230720201700id_/https://dl.acm.org/doi/pdf/10.1145/3571884.3604312) In Proceedings of the 5th International Conference on Conversational User Interfaces (pp. 1-6).
 
